@@ -27,14 +27,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Screen Shot](./screenshot.png)
 
 Screenshot is available in main folder. 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution](https://github.com/Kawi0r/Product-preview-card-component)
+- [Live site](https://kawi0r.github.io/Product-preview-card-component/)
 
 ## My process
 
